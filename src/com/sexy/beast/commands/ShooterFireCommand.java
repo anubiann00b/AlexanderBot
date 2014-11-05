@@ -20,7 +20,7 @@ public class ShooterFireCommand extends CommandBase {
     }
 
     protected void execute() {
-        
+         
     }
 
     protected boolean isFinished() {
