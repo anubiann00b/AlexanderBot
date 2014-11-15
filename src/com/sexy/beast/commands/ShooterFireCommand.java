@@ -30,6 +30,7 @@ public class ShooterFireCommand extends CommandBase {
     protected void end() {
         shooterSubsytem.freeze();
     }
+            
 
     protected void interrupted() {
     }
