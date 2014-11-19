@@ -1,4 +1,4 @@
-package com.sexy.beast;
+package com.saintsrobotics.alexanderbot;
 
 /**
  * The RobotMap is a mapping from the ports sensors and actuators are wired into

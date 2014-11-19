@@ -1,7 +1,7 @@
 
-package com.sexy.beast;
+package com.saintsrobotics.alexanderbot;
 
-import com.sexy.beast.commands.ShooterFireCommand;
+import com.saintsrobotics.alexanderbot.commands.ShooterFireCommand;
 import edu.wpi.first.wpilibj.Joystick;
 import edu.wpi.first.wpilibj.buttons.Button;
 import edu.wpi.first.wpilibj.buttons.JoystickButton;
@@ -22,6 +22,7 @@ public class OI {
     // a button or switch hooked up to the cypress module. These are useful if
     // you want to build a customized operator interface.
     // Button button = new DigitalIOButton(1);
+    // you want to build a customized operator interface.
     
     // There are a few additional built in buttons you can use. Additionally,
     // by subclassing Button you can create custom triggers and bind those to
@@ -57,7 +58,6 @@ public class OI {
     public OI() {
         xbox = new Joystick(JOYSTICK_PORT);
         Button a = new JoystickButton(xbox, BUTTON_A);
-        
         a.whenPressed(new ShooterFireCommand());
     }
     

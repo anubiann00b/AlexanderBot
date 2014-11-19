@@ -1,10 +1,10 @@
-package com.sexy.beast.commands;
+package com.saintsrobotics.alexanderbot.commands;
 
 import edu.wpi.first.wpilibj.command.Command;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
-import com.sexy.beast.OI;
-import com.sexy.beast.subsystems.DriveSubsystem;
-import com.sexy.beast.subsystems.ShooterSubsystem;
+import com.saintsrobotics.alexanderbot.OI;
+import com.saintsrobotics.alexanderbot.subsystems.DriveSubsystem;
+import com.saintsrobotics.alexanderbot.subsystems.ShooterSubsystem;
 
 /**
  * The base for all commands. All atomic commands should subclass CommandBase.
