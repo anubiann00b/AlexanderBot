@@ -1,4 +1,4 @@
-package com.sexy.beast.commands;
+package com.saintsrobotics.alexanderbot.commands;
 
 import edu.wpi.first.wpilibj.DigitalInput;
 import edu.wpi.first.wpilibj.Jaguar;

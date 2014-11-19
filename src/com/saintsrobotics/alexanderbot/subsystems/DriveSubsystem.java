@@ -1,7 +1,7 @@
 
-package com.sexy.beast.subsystems;
+package com.saintsrobotics.alexanderbot.subsystems;
 
-import com.sexy.beast.RobotMap;
+import com.saintsrobotics.alexanderbot.RobotMap;
 import edu.wpi.first.wpilibj.SpeedController;
 import edu.wpi.first.wpilibj.Talon;
 import edu.wpi.first.wpilibj.command.Subsystem;

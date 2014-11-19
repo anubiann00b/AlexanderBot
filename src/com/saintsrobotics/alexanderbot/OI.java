@@ -1,7 +1,7 @@
 
-package com.sexy.beast;
+package com.saintsrobotics.alexanderbot;
 
-import com.sexy.beast.commands.ShooterFireCommand;
+import com.saintsrobotics.alexanderbot.commands.ShooterFireCommand;
 import edu.wpi.first.wpilibj.Joystick;
 import edu.wpi.first.wpilibj.buttons.Button;
 import edu.wpi.first.wpilibj.buttons.JoystickButton;

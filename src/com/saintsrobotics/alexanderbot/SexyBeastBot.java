@@ -1,13 +1,12 @@
-package com.sexy.beast;
-
+package com.saintsrobotics.alexanderbot;
 
 import edu.wpi.first.wpilibj.IterativeRobot;
 import edu.wpi.first.wpilibj.command.Command;
 import edu.wpi.first.wpilibj.command.Scheduler;
 import edu.wpi.first.wpilibj.livewindow.LiveWindow;
-import com.sexy.beast.commands.CommandBase;
-import com.sexy.beast.commands.AutonDriveCommand;
-import com.sexy.beast.commands.JoystickDriveCommand;
+import com.saintsrobotics.alexanderbot.commands.CommandBase;
+import com.saintsrobotics.alexanderbot.commands.AutonDriveCommand;
+import com.saintsrobotics.alexanderbot.commands.JoystickDriveCommand;
 
 public class SexyBeastBot extends IterativeRobot {
 
