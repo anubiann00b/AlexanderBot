@@ -1,12 +1,12 @@
 package com.saintsrobotics.alexanderbot;
 
+import com.saintsrobotics.alexanderbot.commands.AutonDriveCommand;
+import com.saintsrobotics.alexanderbot.commands.CommandBase;
+import com.saintsrobotics.alexanderbot.commands.JoystickDriveCommand;
 import edu.wpi.first.wpilibj.IterativeRobot;
 import edu.wpi.first.wpilibj.command.Command;
 import edu.wpi.first.wpilibj.command.Scheduler;
 import edu.wpi.first.wpilibj.livewindow.LiveWindow;
-import com.saintsrobotics.alexanderbot.commands.CommandBase;
-import com.saintsrobotics.alexanderbot.commands.AutonDriveCommand;
-import com.saintsrobotics.alexanderbot.commands.JoystickDriveCommand;
 
 public class AlexanderBot extends IterativeRobot {
 

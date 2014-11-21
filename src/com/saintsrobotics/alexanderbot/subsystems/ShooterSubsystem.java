@@ -7,9 +7,6 @@ import edu.wpi.first.wpilibj.SpeedController;
 import edu.wpi.first.wpilibj.Timer;
 import edu.wpi.first.wpilibj.command.Subsystem;
 
-/**
- *
- */
 public class ShooterSubsystem extends Subsystem {
 
     Relay arm;

@@ -1,6 +1,4 @@
 package com.saintsrobotics.alexanderbot.commands;
-//I <3 Shreyas 
-//Shreyas <3 programming club
 
 public class ShooterReloadCommand extends CommandBase {
 
