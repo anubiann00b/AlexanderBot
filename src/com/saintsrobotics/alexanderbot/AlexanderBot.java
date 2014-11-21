@@ -8,7 +8,7 @@ import com.saintsrobotics.alexanderbot.commands.CommandBase;
 import com.saintsrobotics.alexanderbot.commands.AutonDriveCommand;
 import com.saintsrobotics.alexanderbot.commands.JoystickDriveCommand;
 
-public class SexyBeastBot extends IterativeRobot {
+public class AlexanderBot extends IterativeRobot {
 
     Command autonomousCommand;
     Command driveCommand;
